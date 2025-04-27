@@ -18,11 +18,16 @@ This is a simple Python calculator that can perform basic operations like:
 
 
 
-a = int(input("Enter First Digit :"))
-b = int(input("Enter Second Digit :"))
+a = int(input("Enter First Number : "))
+
+b = int(input("Enter Second Number : "))
 
 print("Sum = : " , a+b)
+
 print("Diffrence = : " , a-b)
+
 print("Multiplication = : " , a*b)
+
 print("Division = :" , a/b)
+
 print("Power  = :" , a**b)
