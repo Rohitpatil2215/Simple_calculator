@@ -1,2 +1,10 @@
-# Simple_calculator
-"My first project" , This is a simple calculator after I learn basics of python like variable, basic operators , input . I will Post more projects after Learning more things
+#simple calculator
+
+a = int(input("Enter First Digit :"))
+b = int(input("Enter Second Digit :"))
+
+print("Sum = : " , a+b)
+print("Diffrence = : " , a-b)
+print("Multiplication = : " , a*b)
+print("Division = :" , a/b)
+print("Power  = :" , a**b)
