@@ -24,7 +24,7 @@ b = int(input("Enter Second Number : "))
 
 print("Sum = : " , a+b)
 
-print("Diffrence = : " , a-b)
+print("Difference = : " , a-b)
 
 print("Multiplication = : " , a*b)
 
